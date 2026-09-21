@@ -1,0 +1,15 @@
+# Build output
+/build/
+/build-*/
+/cmake-build-*/
+/compile_commands.json
+
+# Local model files
+/models/
+
+# Neovim and clangd
+/.cache/
+*.swp
+*.swo
+*~
+/nvim.log
